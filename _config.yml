@@ -1,10 +1,9 @@
 name: "Digital Health Blog"
 title: "Digital Health Blog"
 description: "Technological changes in the health sector."
-baseurl: /Bernadettenakazibwe.github.io
     name: "Bernadette"
-    display_name: "Bernadette"
-       email: "bernadettenakazibwe@gmail.com"
+    display_name: Bernadette
+       email: bernadettenakazibwe@gmail.com
         description: "Some of the medical technologies in hospitals today."
  
 
