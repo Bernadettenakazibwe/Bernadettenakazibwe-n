@@ -2,25 +2,15 @@ name: "Digital Health Blog"
 title: "Digital Health Blog"
 description: "Technological changes in the health sector."
 baseurl: /Bernadettenakazibwe.github.io
-
-authors:
-  Bernadette:
+ Bernadette:
     name: Bernadette
     display_name: Bernadette
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: bernadettenakazibwe@gmail.com
         description: "Some of the medical technologies in hospitals today."
  
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive    
 
-markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
+
 
 
