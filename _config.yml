@@ -1,11 +1,7 @@
 name: "Digital Health Blog"
 title: "Digital Health Blog"
 description: "Technological changes in the health sector."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
 baseurl: /Bernadettenakazibwe.github.io
-
-permalink: /:title/
 
 authors:
   Bernadette:
@@ -18,34 +14,13 @@ authors:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-paginate: 6
-paginate_path: /page:num/
-    
+  layout: archive    
+
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+  
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
