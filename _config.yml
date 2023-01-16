@@ -1,14 +1,8 @@
-name: Bernadette Nakazibwe
-
-description: Student at Deggendorf Institute of Technology, Bachelor of Science in Health Informatics.
-
-
-avatar: C:\Users\BERNADETTE\OneDrive\Pictures\IMG-20221029-WA0016.jpg
-
-
-url: Bernadettenakazibwe.github.io
-
-footerlinks:
-
-
-permalink: /title/contact/privancy
+blank_issues_enabled: false
+contact_links:
+  - name: Bernadette Nakazibwe
+    url: https://github.com/orgs/community/discussions
+    about: Digital health Technologies.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
