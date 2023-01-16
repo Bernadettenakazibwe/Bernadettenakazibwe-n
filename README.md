@@ -1,5 +1,16 @@
+ ---
+layout: post
+title:  "POSTS"
+author: Bernadette
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: ![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)
+description: "Medical technologies."
+rating: 4.5
+---
+
+
  
- ![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)
 
 # **APPLICATION OF TECHNOLOGY IN THE HEALTH SECTOR**
 (By: *Bernadette Nakazibwe*)
