@@ -1,14 +1,3 @@
- ---
-layout: post
-title:  "APPLICATION OF TECHNOLOGY IN THE HEALTH SECTOR"
-author: Bernadette
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "Different medical technologies in the hospitals."
-rating: 4.5
----
- 
  
  ![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)
 
